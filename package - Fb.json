@@ -1,0 +1,35 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "messenger-test-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello\"",
+	"start": "page_token='EAAaZCflU7qCoBAF5ddJ8J47tQQiAzQZCSSTWnKSb5LFFu30MTPg2VeJEzvecKPyb49YNEkbniDrS61pM9WFCmjjLpZBKKJeBEPY9O0pf9IsHVc0G5JZBQY8C5nwVMDf1l3KaqOcl99ZCcIPw2AOeZB4gEGZBkKEbilZCTWWSrIANPQZDZD' verify_token='MyT35Tt0k3nfbBOT' node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+	  "jfs": "latest",
+	  "mustache": "latest",
+	"ware": "latest",
+	"clone": "latest",
+	"request": "latest",
+	"promise": "latest",
+	"md5": "latest",
+	"botkit-studio-sdk": "latest",
+	"express": "latest",
+	"body-parser": "latest",
+	"twilio": "latest",
+	"botbuilder": "latest",
+	"node-xmpp-client": "latest",
+	"ws": "latest",
+	"requestretry": "latest",
+	"ssh-exec": "latest",
+	"shelljs": "latest",
+	"https-proxy-agent": "latest",
+	"back": "latest"
+  }
+}

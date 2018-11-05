@@ -1,0 +1,35 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "messenger-test-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello\"",
+    "start": "page_token='EAAaZCflU7qCoBAAqapK7I8GXF1U4pZAekI5vrr4pN7WE0FzPXnDLKGwJSdxcEg2E3UNZB1sU3lnGMYtJQT1jLItFyr39jB3GT7bwpgTxAq8YHpX5fznJRAcoeU9swxXtZBQBZABLHzeC9rGNZBirrbPkduaWprTCjPIMtBTmu15gZDZD' verify_token='MyT35Tt0k3nfbBOT' node index.js --lt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jfs": "latest",
+    "mustache": "latest",
+    "ware": "latest",
+    "clone": "latest",
+    "request": "latest",
+    "promise": "latest",
+    "md5": "latest",
+    "botkit-studio-sdk": "latest",
+    "twilio": "latest",
+    "botbuilder": "latest",
+    "node-xmpp-client": "latest",
+    "ws": "latest",
+    "requestretry": "latest",
+    "ssh-exec": "latest",
+    "shelljs": "latest",
+    "https-proxy-agent": "latest",
+    "back": "latest",
+    "command-line-args": "latest",
+    "localtunnel": "latest"
+  }
+}
