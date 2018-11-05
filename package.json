@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Hello\"",
-    "start": "page_token='EAAaZCflU7qCoBAAqapK7I8GXF1U4pZAekI5vrr4pN7WE0FzPXnDLKGwJSdxcEg2E3UNZB1sU3lnGMYtJQT1jLItFyr39jB3GT7bwpgTxAq8YHpX5fznJRAcoeU9swxXtZBQBZABLHzeC9rGNZBirrbPkduaWprTCjPIMtBTmu15gZDZD' verify_token='MyT35Tt0k3nfbBOT' node index.js --lt"
+    "start": "page_token='EAAJ2XOZB5vd4BAIGc5HXxtqdJT9wZC6W5i8RjGreYH3ZAbAXDHd6HAXZCuYI3Gq75d7bZBsDlaW2jWyistkXiVvgxvjLXvXK9nvGsLcZBMsTDmUfd3xfUbc5v8pTBadrclsIZANuJOxxEI1DV7JLRDVArHLUov49KKK75ZCKsCGYiNMo8129ERsz' verify_token='MyT35Tt0k3nfbBOT' node index.js --lt"
   },
   "author": "",
   "license": "ISC",
